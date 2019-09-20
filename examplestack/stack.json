@@ -1,0 +1,6 @@
+{
+  "name": "crossplatformfaastest",
+  "location": "eastus",
+  "project": "faastest",
+  "stage": "dev"
+}
